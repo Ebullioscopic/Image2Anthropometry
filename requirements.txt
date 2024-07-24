@@ -1,0 +1,5 @@
+django 
+djangorestframework 
+opencv-python 
+mediapipe 
+numpy
