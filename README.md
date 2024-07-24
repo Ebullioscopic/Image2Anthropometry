@@ -51,12 +51,12 @@ Input Image                 |  Annotated Image
 
 4. **Create and configure the Django project:**
     ```sh
-    django-admin startproject pose_analysis_project
-    cd pose_analysis_project
+    django-admin startproject anthropometry
+    cd anthropometry
     django-admin startapp api
     ```
 
-5. **Update `settings.py` in `pose_analysis_project` directory:**
+5. **Update `settings.py` in `anthropometry` directory:**
     ```python
     INSTALLED_APPS = [
         ...
@@ -158,7 +158,7 @@ Input Image                 |  Annotated Image
     ```
 
 7. **Create URL routing for the API:**
-    Add the following to `urls.py` in the `pose_analysis_project` directory:
+    Add the following to `urls.py` in the `anthropometry` directory:
 
     ```python
     from django.urls import path
