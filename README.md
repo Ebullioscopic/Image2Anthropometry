@@ -20,8 +20,8 @@ This project provides a REST API for performing anthropometric analysis using im
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/pose-analysis-api.git
-    cd pose-analysis-api
+    git clone https://github.com/Ebullioscopic/Image2Anthropometry.git
+    cd Image2Anthropometry
     ```
 
 2. **Create and activate a virtual environment (optional but recommended):**
