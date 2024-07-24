@@ -7,6 +7,10 @@ Input Image                 |  Annotated Image
 :-------------------------:|:-------------------------:
 ![](https://github.com/Ebullioscopic/Image2Anthropometry/blob/main/person.jpeg)  |  ![](https://github.com/Ebullioscopic/Image2Anthropometry/blob/main/annotated_image.jpg)
 
+## API Call
+
+![](https://github.com/Ebullioscopic/Image2Anthropometry/blob/main/api_call.png)
+
 ## Table of Contents
 - [System Requirements](#system-requirements)
 - [Installation](#installation)
