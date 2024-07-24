@@ -2,6 +2,10 @@
 
 This project provides a REST API for performing anthropometric analysis using image inputs. The API leverages OpenCV and MediaPipe to detect pose landmarks and calculate various body measurements based on a given height.
 
+## Inferences
+Input Image                 |  Annotated Image
+:-------------------------:|:-------------------------:
+![](https://github.com/Ebullioscopic/Image2Anthropometry/blob/main/person.jpeg)  |  ![](https://github.com/Ebullioscopic/Image2Anthropometry/blob/main/annotated_image.jpg)
 
 ## Table of Contents
 - [System Requirements](#system-requirements)
