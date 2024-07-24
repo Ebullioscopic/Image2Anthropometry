@@ -2,6 +2,7 @@
 
 This project provides a REST API for performing anthropometric analysis using image inputs. The API leverages OpenCV and MediaPipe to detect pose landmarks and calculate various body measurements based on a given height.
 
+
 ## Table of Contents
 - [System Requirements](#system-requirements)
 - [Installation](#installation)
