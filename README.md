@@ -288,7 +288,7 @@ Input Image                 |  Annotated Image
     "calf_left_circumference_in": 14.5,
     "calf_right_circumference_in": 14.3
 }
-
+```
 ## References
 
 - [Django Documentation](https://docs.djangoproject.com/)
